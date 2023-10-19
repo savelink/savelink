@@ -43,4 +43,3 @@ pyasn1-modules==0.2.8
 pygtrie==2.5.0
 PyMySQL==1.0.3
 pyparsing==2.4.7
-pypiwin32==223
